@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../FSD/jquery_prac"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jquery_prac"
+	}
+}
